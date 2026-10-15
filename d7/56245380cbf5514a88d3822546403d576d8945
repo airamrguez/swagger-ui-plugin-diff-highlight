@@ -1,0 +1,16 @@
+src/DiffHighlightPlugin.jsx
+  h_93cc706281f69f 97-105,108-148
+src/__tests__/DiffHighlightPlugin.test.jsx
+  h_93cc706281f69f 101-103,118-213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d756245380cbf5514a88d3822546403d576d8945",
+  "prompts": {},
+  "humans": {
+    "h_93cc706281f69f": {
+      "author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
