@@ -1,0 +1,53 @@
+.gitignore
+  s_5effcd4d737ce4::t_8c97d1e46e9185 45-48
+.prettierignore
+  s_5effcd4d737ce4::t_1d0a86d4637fd4 8-10
+README.md
+  s_5effcd4d737ce4::t_3bda6b0d772d83 59-142,351-379
+example/src/components/ReportModal.jsx
+  s_5effcd4d737ce4::t_a6667dc9b1b367 4,24,51-56,92-98,101-116,118-120
+example/src/components/Toolbar.jsx
+  s_5effcd4d737ce4::t_c242633a9b1450 9,26-31,39
+example/src/demo.css
+  s_5effcd4d737ce4::t_15620115e26e5c 281-289
+example/src/loadSpec.js
+  s_5effcd4d737ce4::t_a36e7eab09f63f 1-21
+example/src/specs/diffSpec.yaml
+  s_5effcd4d737ce4::t_ace5e92d0cc743 1-121
+package.json
+  s_5effcd4d737ce4::t_a9a31a5e0d7509 61,76,85
+playwright.config.mjs
+  s_5effcd4d737ce4::t_dc9fcb147bd640 1-14
+src/DiffHighlightPlugin.jsx
+  s_5effcd4d737ce4::t_7c9f642b2f8d5f 3-24,39-44,95,102-103,107,115,125,133-139,147-162,180,187,190-194,196-206,216-228
+src/__tests__/DiffHighlightPlugin.test.jsx
+  s_5effcd4d737ce4::t_d691232351c38e 14-38,97-119
+src/__tests__/documents.test.jsx
+  s_5effcd4d737ce4::t_a639c00500102a 1-155
+src/index.js
+  s_5effcd4d737ce4::t_02bb2936b7bb00 4-5
+src/operations.js
+  s_5effcd4d737ce4::t_ab331e43b84695 1-24
+src/report.js
+  s_5effcd4d737ce4::t_963145f8809658 1-83
+types/index.d.ts
+  s_5effcd4d737ce4::t_677d763d6ca9d0 33-49
+vitest.config.ts
+  s_5effcd4d737ce4::t_ee347664a5a1a9 6-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2fdf2150e8f9a84ce39189d66688e876afa28141",
+  "prompts": {},
+  "sessions": {
+    "s_5effcd4d737ce4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec0663cddffeiDHixqLgADYGLZ",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
