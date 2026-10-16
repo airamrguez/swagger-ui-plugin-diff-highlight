@@ -1,0 +1,14 @@
+src/diff.css
+  h_93cc706281f69f 70-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1df419284785dd98815513a74de7deadc3f4d635",
+  "prompts": {},
+  "humans": {
+    "h_93cc706281f69f": {
+      "author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
