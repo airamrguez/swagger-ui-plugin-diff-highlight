@@ -1,0 +1,20 @@
+example/src/specs/diffReport.js
+  h_93cc706281f69f 69-88
+example/src/specs/diffSpec.json
+  h_93cc706281f69f 142-143,145,148,150,153,155,161
+example/src/specs/latestSpec.json
+  h_93cc706281f69f 107-108,110,115
+src/__tests__/exampleFixtures.test.js
+  h_93cc706281f69f 1-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "212d135d56625165eff7c509cc850ffe493cd4cc",
+  "prompts": {},
+  "humans": {
+    "h_93cc706281f69f": {
+      "author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
