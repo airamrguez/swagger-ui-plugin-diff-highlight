@@ -1,0 +1,19 @@
+vitest.config.ts
+  s_4d41da27c59b87::t_21f6260a7fbf6c 6-8,10-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "11a27ca1e0322c7da70bd4f0df1c0b29e6d3b10a",
+  "prompts": {},
+  "sessions": {
+    "s_4d41da27c59b87": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ebb450ec0ffe31JOyTENXedFHt",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
