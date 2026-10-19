@@ -1,0 +1,19 @@
+eslint.config.mjs
+  s_6b5c25ed480d99::t_b41b88514f0e82 3,11,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "610c872ce9622016ccd351807752b3eee5e93dcf",
+  "prompts": {},
+  "sessions": {
+    "s_6b5c25ed480d99": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_eab7fe3c7ffeA3dkDgWGXbaoRa",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
