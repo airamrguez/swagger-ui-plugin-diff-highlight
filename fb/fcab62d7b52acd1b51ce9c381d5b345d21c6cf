@@ -1,0 +1,21 @@
+example/src/components/ReportModal.jsx
+  s_6b5c25ed480d99::t_82ec1e48efa3f2 3,24-25,27-35,40-41,44,46,105-112
+example/src/demo.css
+  s_6b5c25ed480d99::t_b534f36820dc50 74-81,87-104,106-107,217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fbfcab62d7b52acd1b51ce9c381d5b345d21c6cf",
+  "prompts": {},
+  "sessions": {
+    "s_6b5c25ed480d99": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_eab7fe3c7ffeA3dkDgWGXbaoRa",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
