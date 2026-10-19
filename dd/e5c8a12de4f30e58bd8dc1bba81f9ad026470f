@@ -1,0 +1,23 @@
+package-lock.json
+  s_6b5c25ed480d99::t_fd550114b0b797 3,9,15,361-370,3166-3217,3525-3543,6602-6613,8564-8573
+package.json
+  s_6b5c25ed480d99::t_e08713bab76dda 77
+vitest.config.ts
+  s_6b5c25ed480d99::t_33a84a53ddc8a7 17-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dde5c8a12de4f30e58bd8dc1bba81f9ad026470f",
+  "prompts": {},
+  "sessions": {
+    "s_6b5c25ed480d99": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_eab7fe3c7ffeA3dkDgWGXbaoRa",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
