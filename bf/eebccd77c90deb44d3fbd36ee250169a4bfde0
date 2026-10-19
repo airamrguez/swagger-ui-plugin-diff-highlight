@@ -1,0 +1,19 @@
+src/diff.css
+  s_6b5c25ed480d99::t_ccffb07b5caf88 6-12,16-19,23-26,30-31,60-66,69-72,76-77,94-97,100-103,106-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bfeebccd77c90deb44d3fbd36ee250169a4bfde0",
+  "prompts": {},
+  "sessions": {
+    "s_6b5c25ed480d99": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_eab7fe3c7ffeA3dkDgWGXbaoRa",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
