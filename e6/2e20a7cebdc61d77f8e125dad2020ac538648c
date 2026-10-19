@@ -1,0 +1,16 @@
+README.md
+  h_93cc706281f69f 246
+src/diff.css
+  h_93cc706281f69f 73-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e62e20a7cebdc61d77f8e125dad2020ac538648c",
+  "prompts": {},
+  "humans": {
+    "h_93cc706281f69f": {
+      "author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}

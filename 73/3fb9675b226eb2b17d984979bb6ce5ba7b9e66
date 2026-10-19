@@ -1,0 +1,25 @@
+src/DiffHighlightPlugin.jsx
+  s_3ed9ce50a8f04a::t_2acfcef04bf0e6 52-139,141,178-180,191,203,205-206,208-211,239-240,244,247-258,262-265,267-275,282,365
+src/diff.css
+  s_3ed9ce50a8f04a::t_ce300c1125d451 65-69,72-79
+src/__tests__/helpers.test.jsx
+  s_3ed9ce50a8f04a::t_145dd9567b0bb4 8,67-156
+src/__tests__/schemaAncestors.test.jsx
+  s_3ed9ce50a8f04a::t_41f5954d178971 1-127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "733fb9675b226eb2b17d984979bb6ce5ba7b9e66",
+  "prompts": {},
+  "sessions": {
+    "s_3ed9ce50a8f04a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ebb327648ffeGKUV4pROmD990u",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Airam Rguez <airamrr@ext.inditex.com>"
+    }
+  }
+}
